@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
-import { ArrowUpRight, BarChart2, PieChart, TrendingUp } from 'lucide-react'
+import { ArrowUpRight, BarChart2,  TrendingUp } from 'lucide-react'
 
 interface FeatureCardProps {
   icon: React.ReactNode;
